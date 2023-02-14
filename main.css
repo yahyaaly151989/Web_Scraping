@@ -1,0 +1,16 @@
+div.css-content {
+    background-color: #DDD;
+    width: 400px;
+    padding: 10px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+div.css-foot{
+    background-color: #777;
+    color: #fff;
+    width: 400px;
+    padding:10px
+}
+
+
